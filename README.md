@@ -1,5 +1,6 @@
 # tetris
 a simple tetris game realized by c++ (using ncurses)
+
 main 里面是我从网上下载的初始版本，这个版本有两个bug：
 
 一是如果持续按方向键'↑' '←' '→'方块会不下落
